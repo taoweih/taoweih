@@ -8,4 +8,4 @@ I am a sophomore majoring in Computer Engineering at University of Illinois Urba
   - Robotics
   - Web Developement
   - Software Development
-- 🌐 Learn more about me at: TaoweiHuang.com
+- 🌐 Learn more about me at: [TaoweiHuang.com](taoweihuang.com)
