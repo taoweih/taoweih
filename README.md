@@ -13,7 +13,7 @@
 I am a sophomore majoring in Computer Engineering at University of Illinois Urbana-Champaign. Seeking internship and co-op opportunities.
 
 - 🧑🏻‍💻 I know: C/C++, Python, HTML/CSS
-- Area of interests:
+- ✨ Area of interests:
   - Artificial Intelligence
   - Robotics
   - Web Developement
