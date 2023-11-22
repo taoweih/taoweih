@@ -10,7 +10,9 @@
 - 📫 How to reach me: 
 -->
 
-I am a sophomore majoring in Computer Engineering at University of Illinois Urbana-Champaign. I am interested in Artificial Intelligence and software developement. Seeking internship and co-op opportunities.
+I am a sophomore majoring in Computer Engineering at University of Illinois Urbana-Champaign. Seeking internship and co-op opportunities.
 
 - 🧑🏻‍💻 I know: C/C++, Python, HTML/CSS
+- Area of interests:
+  - Artificial Intelligence
 - 🌐 Learn more about me at: TaoweiHuang.com
