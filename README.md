@@ -15,4 +15,7 @@ I am a sophomore majoring in Computer Engineering at University of Illinois Urba
 - 🧑🏻‍💻 I know: C/C++, Python, HTML/CSS
 - Area of interests:
   - Artificial Intelligence
+  - Robotics
+  - Web Developement
+  - Software Development
 - 🌐 Learn more about me at: TaoweiHuang.com
