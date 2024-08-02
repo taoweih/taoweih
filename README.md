@@ -7,4 +7,4 @@ I am a junior majoring in Computer Engineering at University of Illinois Urbana-
   - Artificial Intelligence
   - Robotics
   - Software Development
-- 🌐 Learn more about me at: <a href="https://taoweihuang.com" target="_blank">TaoweiHuang.com</a>
+- 🌐 Learn more about me at: <a href="https://www.taoweihuang.com" target="_blank">TaoweiHuang.com</a>
