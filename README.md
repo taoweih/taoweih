@@ -2,7 +2,7 @@
 
 I am a junior majoring in Computer Engineering at University of Illinois Urbana-Champaign. Seeking internship and co-op opportunities.
 
-- 🧑🏻‍💻 I know: C/C++, Python, HTML/CSS
+- 🧑🏻‍💻 I know: C/C++, Python, SystemVerilog, RISC-V
 - ✨ Area of interests:
   - Artificial Intelligence
   - Robotics
